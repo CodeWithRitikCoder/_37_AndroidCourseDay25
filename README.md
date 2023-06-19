@@ -13,24 +13,24 @@ Day-25 of Android Course:- Bottom Navigation View in Android Application.
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_1.png" alt="ScreenShort 1 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_1.png" alt="ScreenShort 1 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_2.png" alt="ScreenShort 2 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_2.png" alt="ScreenShort 2 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_3.png" alt="ScreenShort 3 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_3.png" alt="ScreenShort 3 of Application" height="500" width="250" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_4.png" alt="ScreenShort 4 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_4.png" alt="ScreenShort 4 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_5.png" alt="ScreenShort 5 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_5.png" alt="ScreenShort 5 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/application_screenshots/screen_short_6.png" alt="ScreenShort 6 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/AndroidCourseDay25/blob/master/app/src/main/res/drawable/screen_short_6.png" alt="ScreenShort 6 of Application" height="500" width="250" />
     </td>
   </tr>
 </table>
